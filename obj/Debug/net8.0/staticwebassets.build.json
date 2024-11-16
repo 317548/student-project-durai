@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "07VLCxzSYPhRNARhMT1GtGKtDvZR9fi61gWRN3NQQLA=",
+  "Source": "enrollment",
+  "BasePath": "_content/enrollment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
